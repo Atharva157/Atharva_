@@ -1,0 +1,23 @@
+
+  // IntelliJ API Decompiler stub source generated from a class file
+  // Implementation of methods is not available
+
+package demo;
+
+public class LoginTest {
+    org.openqa.selenium.WebDriver driver;
+
+    public LoginTest() { /* compiled code */ }
+
+    @org.testng.annotations.BeforeMethod
+    public void setUp() { /* compiled code */ }
+
+    @org.testng.annotations.Test(dataProvider = "loginData")
+    public void testLogin(java.lang.String username, java.lang.String password, java.lang.String expectedMessage) { /* compiled code */ }
+
+    @org.testng.annotations.DataProvider(name = "loginData")
+    public java.lang.Object[][] getLoginData() { /* compiled code */ }
+
+    @org.testng.annotations.AfterMethod
+    public void tearDown() { /* compiled code */ }
+}
