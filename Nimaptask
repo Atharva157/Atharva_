@@ -1,0 +1,20 @@
+Automation and Manual Testing Suite for Nimap Infotech
+
+This project showcases expertise in both automation and manual testing methodologies for the web application provided by Nimap Infotech.
+
+Automation Testing:
+
+Developed a Maven-based project to automate critical user journeys using parameterization techniques.
+Automated the Login Journey and implemented validation mechanisms.
+Verified the Toast/Popup message after a "Punch In" action.
+Automated the process of adding a customer, leveraging parameterization for dynamic data input and validation.
+Integrated Cucumber and TestNG frameworks for behavior-driven and test-driven approaches, ensuring robust testing and reusability.
+Manual Testing:
+
+Designed comprehensive test cases for core modules like Sign-Up, Forgot Password, Sign In with OTP, and Login using a structured template.
+Conducted field validations and documented identified bugs, ensuring high-quality deliverables.
+API Testing with Postman:
+
+Configured environments and variables for efficient API testing workflows.
+Tested Login APIs with valid/invalid credentials and implemented customer addition functionality via dashboard APIs.
+Demonstrated clear documentation and explanations of API setups and requests for enhanced evaluation.
